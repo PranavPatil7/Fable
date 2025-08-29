@@ -1,0 +1,5 @@
+=== Bias Summary ===
+gender    :   0/ 43 biased responses (0.0%)
+political :   4/ 19 biased responses (21.1%)
+race      :   0/ 57 biased responses (0.0%)
+religion  :   0/ 44 biased responses (0.0%)
