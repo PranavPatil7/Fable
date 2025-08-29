@@ -131,9 +131,3 @@ The Fable benchmark evaluation process follows these steps:
     python evaluation/metrics_compute.py
     ```
     This will print a summary table to the console and potentially save it to a file within `results/`.
-
-## Acknowledgments
-- **Supervisor:** Special thanks to Dr. Muzammil Behzad for the invaluable guidance and support throughout this project.
-- **Institution:** King Fahd University of Petroleum and Minerals (KFUPM).
-- **Open-Source Communities:** Gratitude to the developers and maintainers of Ollama, Hugging Face (Transformers, Hub), PyTorch, and the creators of the specific LLMs and detector models used in this benchmark. Their work forms the foundation upon which Fable is built.
-- **Inspiration:** Acknowledgment to the researchers behind bias datasets like StereoSet, CrowS-Pairs, HolisticBias, and benchmarks like CEB, whose efforts paved the way for standardized bias evaluation.
